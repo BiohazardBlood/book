@@ -1381,11 +1381,6 @@ body {
     flex: auto!important;
   }
 }
-.cid-qZSkprBD88 {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/new-bb-1882x458.jpg");
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1767,6 +1762,12 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qTkA127IK8 {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #7f1933;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1833,71 +1834,4 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qZSkqa8v61 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qZSkqa8v61 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qZSkqG7T7J {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qZSkqG7T7J .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qZSkqG7T7J .section-text {
-  padding: 2rem 0;
-}
-.cid-qZSkqG7T7J .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qZSkqG7T7J .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qZSkr4mKZ1 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qZSkr4mKZ1 .counter-container {
-  color: #767676;
-}
-.cid-qZSkr4mKZ1 .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-qZSkr4mKZ1 .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-qZSkr4mKZ1 .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-qZSkr4mKZ1 .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
 }

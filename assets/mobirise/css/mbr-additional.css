@@ -1381,6 +1381,11 @@ body {
     flex: auto!important;
   }
 }
+.cid-qZSkprBD88 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/new-bb-1882x458.jpg");
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1828,11 +1833,6 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qZSkprBD88 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qZSkqa8v61 {
   padding-top: 60px;
